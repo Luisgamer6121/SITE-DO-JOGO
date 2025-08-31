@@ -1,11 +1,6 @@
 body{
-    background: #cccc;
+  padding: 25px;
 }
-    #eu{
-        background: gray;
-        width:25px;
-        height:25px;
-        position:absolute;
-        top:200px;
-        left:250px;
-    }
+.title {
+	color: #5C6AC4;
+}
